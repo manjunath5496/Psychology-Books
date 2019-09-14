@@ -132,6 +132,31 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(63).pdf" style="text-decoration:none;">Mindset: The New Psychology of Success  </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(64).pdf" style="text-decoration:none;">Incognito: The Secret Lives of The Brain</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(65).pdf" style="text-decoration:none;">The Interpretation of Dreams</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(66).pdf" style="text-decoration:none;">Sway: The Irresistible Pull of Irrational Behavior </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(67).pdf" style="text-decoration:none;">The Lucifer Effect: Understanding How Good People Turn Evil  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(68).pdf" style="text-decoration:none;">The Social Animal</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(69).pdf" style="text-decoration:none;">The Happiness Hypothesis </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(70).pdf" style="text-decoration:none;">The Paradox of Choice – Why More Is Less </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(71).pdf" style="text-decoration:none;">Grit: The Power of Passion and Perseverance </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(72).pdf" style="text-decoration:none;">Switch: How To Change Things When Change Is Hard</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(73).pdf" style="text-decoration:none;">Outliers: The Story of Success </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(74).pdf" style="text-decoration:none;">The Power of your Subconscious Mind </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(75).pdf" style="text-decoration:none;">Brain Rules</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(76).pdf" style="text-decoration:none;">The Art of Clear Thinking</a></b></li>
 
 
 
