@@ -71,7 +71,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(34).pdf" style="text-decoration:none;">Trading Psychology 2.0: From Best Practices to Best Processes</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(35).pdf" style="text-decoration:none;">The Psychology of CreativeWriting</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(35).pdf" style="text-decoration:none;">The Psychology of Creative Writing</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(36).pdf" style="text-decoration:none;">Child Psychology and Psychiatry </a></b></li>
 
