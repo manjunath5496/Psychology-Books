@@ -33,6 +33,36 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(16).pdf" style="text-decoration:none;">Cross-Cultural Psychology  </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(17).pdf" style="text-decoration:none;">Handbook of Psychology: Health psychology  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(18).pdf" style="text-decoration:none;">Educational Psychology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(19).pdf" style="text-decoration:none;">Statistical Methods for Psychology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(20).pdf" style="text-decoration:none;">Handbook of Psychology, Volume 1, History of Psychology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(21).pdf" style="text-decoration:none;">The Psychology of Entertainment Media: Blurring the Lines Between Entertainment and Persuasion  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(22).pdf" style="text-decoration:none;">Energy Psychology Theory, Research, and Treatment</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(23).pdf" style="text-decoration:none;">The Concise Dictionary of Psychology </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(24).pdf" style="text-decoration:none;">Flow and the Foundations of Positive Psychology </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(25).pdf" style="text-decoration:none;">Research in Psychology: Methods and Design  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(26).pdf" style="text-decoration:none;">Sport and Exercise Psychology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(27).pdf" style="text-decoration:none;">Handbook of Psychology: Personality and Social Psychology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(28).pdf" style="text-decoration:none;">Health Psychology: A Textbook</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(29).pdf" style="text-decoration:none;">The Psychology of Problem Solving</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(30).pdf" style="text-decoration:none;">Generalization in Qualitative Psychology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(31).pdf" style="text-decoration:none;">Research Methods in Clinical Psychology: An Introduction for Students and Practitioners  </a></b></li>
+
 
 
 
