@@ -112,22 +112,24 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(54).pdf" style="text-decoration:none;">Positive Psychology and Constructivist Developmental Psychology: a Theoretical Enquiry Into How a Developmental Stage Conception Might Provide Further Insights Into Specific Areas of Positive Psychology </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(24).pdf" style="text-decoration:none;">Flow and the Foundations of Positive Psychology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(55).pdf" style="text-decoration:none;">predictably irrational </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(25).pdf" style="text-decoration:none;">Research in Psychology: Methods and Design  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(56).pdf" style="text-decoration:none;">Thinking, Fast and Slow  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(26).pdf" style="text-decoration:none;">Sport and Exercise Psychology: A Critical Introduction</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(57).pdf" style="text-decoration:none;">Stumbling on Happiness</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(27).pdf" style="text-decoration:none;">Handbook of Psychology: Personality and Social Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(58).pdf" style="text-decoration:none;">The Power of Habit </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(28).pdf" style="text-decoration:none;">Health Psychology: A Textbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(59).pdf" style="text-decoration:none;">How to Win Friends and Influence People</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(29).pdf" style="text-decoration:none;">The Psychology of Problem Solving</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(60).pdf" style="text-decoration:none;">Games People Play: The psychology of human relationships</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(30).pdf" style="text-decoration:none;">Generalization in Qualitative Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(61).pdf" style="text-decoration:none;">Flow: The Psychology of Optimal Experience</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(31).pdf" style="text-decoration:none;">Research Methods in Clinical Psychology: An Introduction for Students and Practitioners  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(62).pdf" style="text-decoration:none;">The Tipping Point: How Little Things Can Make a Big Difference  </a></b></li>
 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(63).pdf" style="text-decoration:none;">Mindset: The New Psychology of Success  </a></b></li>
 
 
 
