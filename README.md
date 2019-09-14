@@ -97,19 +97,19 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(47).pdf" style="text-decoration:none;">Dictionary of Psychology and Allied Sciences </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(17).pdf" style="text-decoration:none;">Handbook of Psychology: Health psychology  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(48).pdf" style="text-decoration:none;">Vygotsky's Developmental and Educational Psychology  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(18).pdf" style="text-decoration:none;">Educational Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(49).pdf" style="text-decoration:none;">The Psychology of Eating</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(19).pdf" style="text-decoration:none;">Statistical Methods for Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(50).pdf" style="text-decoration:none;">An Introduction to Social Psychology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(20).pdf" style="text-decoration:none;">Handbook of Psychology, Volume 1, History of Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(51).pdf" style="text-decoration:none;">Criminal Psychology: A Beginner's Guide </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(21).pdf" style="text-decoration:none;">The Psychology of Entertainment Media: Blurring the Lines Between Entertainment and Persuasion  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(52).pdf" style="text-decoration:none;">Dream Psychology  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(22).pdf" style="text-decoration:none;">Energy Psychology Theory, Research, and Treatment</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(53).pdf" style="text-decoration:none;">Yoga and Psychology and Psychotherapy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(23).pdf" style="text-decoration:none;">The Concise Dictionary of Psychology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(54).pdf" style="text-decoration:none;">Positive Psychology and Constructivist Developmental Psychology: a Theoretical Enquiry Into How a Developmental Stage Conception Might Provide Further Insights Into Specific Areas of Positive Psychology </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(24).pdf" style="text-decoration:none;">Flow and the Foundations of Positive Psychology </a></b></li>
 
